@@ -5,7 +5,7 @@
 - Bachelors of Science, Computer Science & Applied Math (WIP)
 
 - 📫 How to reach me:
-  - ali--ibrahim@hotmail.com
+  - alit.ibrahim01@gmail.com
 
 <!---
 Ali-T-Ibrahim/Ali-T-Ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
